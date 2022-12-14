@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    { "id": "Amsterdam", "group": 1 },
+    { "id": "Rotterdam", "group": 1 },
+    { "id": "Utrecht", "group": 1 },
+    { "id": "Zurich", "group": 2 },
+    { "id": "Bern", "group": 2 },
+    { "id": "Basel", "group": 2 },
+    { "id": "Rome", "group": 3 },
+    { "id": "Tromso", "group": 4 }
+  ],
+  "links": [
+    { "source": "Amsterdam", "target": "Rotterdam", "value": 30 },
+    { "source": "Amsterdam", "target": "Utrecht", "value": 30 },
+    { "source": "Amsterdam", "target": "Zurich", "value": 40 },
+    { "source": "Amsterdam", "target": "Bern", "value": 40 },
+    { "source": "Amsterdam", "target": "Basel", "value": 40 },
+    { "source": "Amsterdam", "target": "Rome", "value": 40 },
+    { "source": "Amsterdam", "target": "Tromso", "value": 40 },
+    { "source": "Utrecht", "target": "Bern", "value": 7 }
+  ]
+}
