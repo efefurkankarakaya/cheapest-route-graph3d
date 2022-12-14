@@ -1,4 +1,4 @@
-# Cheapest Path (3D Graph Visualization)
+# Cheapest Path
 
 Visualizes given graph with 3D node objects and calculates cheapest path and shows in console screen.
 
@@ -8,5 +8,10 @@ Visualizes given graph with 3D node objects and calculates cheapest path and sho
 
 ## Running
 
-To start: `$ pnpm start` <br />
-To test: `$ pnpm test`
+### To start
+
+`$ pnpm start` <br />
+
+### To test
+
+`$ pnpm test`
