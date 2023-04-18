@@ -1,4 +1,4 @@
-# Cheapest Path
+# Cheapest Route
 
 Visualizes given graph with 3D node objects and calculates cheapest path and shows in console screen.
 
